@@ -69,6 +69,16 @@
       "icon": "library",
       "mode": "standalone",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodview.svg"
+    },
+    {
+      "id": "thodclip",
+      "name": "ThodClip",
+      "description": "Вся история буфера и скриншотов под рукой. Поиск, календарь, закрепление и копирование обратно.",
+      "repository": "ThodProd/ThodClip",
+      "category": "Система",
+      "icon": "copy",
+      "mode": "embedded",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodclip.svg"
     }
   ]
 }
