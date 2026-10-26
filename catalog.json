@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "o-sebe",
+      "name": "О себе",
+      "description": "Резюме, в котором всё на своём месте. Шесть шаблонов, черновики и экспорт в PDF.",
+      "repository": "ThodProd/o-sebe",
+      "category": "Работа",
+      "icon": "resume",
+      "mode": "standalone",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/o-sebe.svg"
+    },
+    {
+      "id": "thodmixer",
+      "name": "ThodMixer",
+      "description": "Звук под твоим контролем. Аудиодорожки, маршрутизация и MIDI-контроллеры.",
+      "repository": "ThodProd/ThodMixer",
+      "category": "Аудио",
+      "icon": "mixer",
+      "mode": "standalone",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodmixer.svg"
+    },
+    {
+      "id": "thodvpn",
+      "name": "ThodVPN",
+      "description": "Твои подключения в одном месте. Профили, выбор сервера и раздельное туннелирование.",
+      "repository": "ThodProd/ThodVPN",
+      "category": "Сеть",
+      "icon": "vpn",
+      "mode": "standalone",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodvpn.svg"
+    },
+    {
+      "id": "thodmonitor",
+      "name": "Thod Monitor",
+      "description": "Показатели компьютера на виду. Датчики, оверлеи и уведомления о нагрузке.",
+      "repository": "ThodProd/ThodMonitor",
+      "category": "Система",
+      "icon": "monitor",
+      "mode": "standalone",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodmonitor.svg"
+    },
+    {
+      "id": "copyall",
+      "name": "CopyAll",
+      "description": "Структура любой папки — одним действием. Собери список файлов и скопируй его.",
+      "repository": "ThodProd/CopyAll",
+      "category": "Работа",
+      "icon": "copy",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/copyall.svg"
+    },
+    {
+      "id": "thodmedia",
+      "name": "ThodMedia",
+      "description": "Фото, видео и звук в одном конвертере. Форматы, сжатие, обрезка и офлайн-удаление фона.",
+      "repository": "ThodProd/ThodMedia",
+      "category": "Медиа",
+      "icon": "mixer",
+      "mode": "embedded",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodmedia.svg"
+    },
+    {
+      "id": "thodview",
+      "name": "ThodView",
+      "description": "Быстрый просмотр любых изображений. Масштаб к курсору, папки, поворот, обрезка и метаданные.",
+      "repository": "ThodProd/ThodView",
+      "category": "Графика",
+      "icon": "library",
+      "mode": "standalone",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodview.svg"
+    }
+  ]
+}
