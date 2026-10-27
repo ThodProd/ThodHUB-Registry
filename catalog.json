@@ -110,14 +110,14 @@
     },
     {
       "id": "forcedeletehelper",
-      "name": "ForceDeleteHelper",
+      "name": "ForceDelete",
       "kind": "Удаление файлов",
-      "description": "Анализ блокировок, остановка удерживающих файл процессов и удаление файлов или папок разными способами.",
+      "description": "Безвозвратное удаление файлов и папок с остановкой блокирующих процессов. Затирание данных и пункт в меню Проводника.",
       "repository": "ThodProd/ForceDeleteHelper",
       "category": "Система",
       "icon": "copy",
-      "mode": "standalone",
-      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/forcedeletehelper.svg",
+      "mode": "embedded",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/forcedeletehelper.svg?v=2",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/forcedeletehelper.svg"
     }
   ]
