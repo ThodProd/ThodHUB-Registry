@@ -131,6 +131,18 @@
       "mode": "embedded",
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/ambilight.svg",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/ambilight.svg"
+    },
+    {
+      "id": "thoduup",
+      "name": "ThodUUP",
+      "kind": "Сборка ISO",
+      "description": "Скачивание файлов Windows 10 и 11 с UUP dump и сборка установочного ISO.",
+      "repository": "ThodProd/ThodUUP",
+      "category": "Система",
+      "icon": "monitor",
+      "mode": "embedded",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoduup.svg",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoduup.svg"
     }
   ]
 }
