@@ -143,6 +143,18 @@
       "mode": "embedded",
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoduup.svg",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoduup.svg"
+    },
+    {
+      "id": "thoddrop",
+      "name": "ThodDrop",
+      "kind": "Передача файлов",
+      "description": "Отправка файлов, фото и буфера обмена между телефоном и ПК по Wi-Fi со сквозным шифрованием. Без аккаунта, платных функций и статистики.",
+      "repository": "ThodProd/ThodDrop",
+      "category": "Сеть",
+      "icon": "library",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoddrop.svg",
+      "mode": "embedded",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoddrop.svg"
     }
   ]
 }
