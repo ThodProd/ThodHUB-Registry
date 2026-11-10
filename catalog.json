@@ -155,6 +155,18 @@
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoddrop.svg",
       "mode": "embedded",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoddrop.svg"
+    },
+    {
+      "id": "thodshot",
+      "name": "ThodShot",
+      "description": "Снимок области или экрана по PrintScreen, копирование, сохранение и распознавание текста без интернета.",
+      "repository": "ThodProd/ThodShot",
+      "category": "Система",
+      "icon": "monitor",
+      "mode": "standalone",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodshot.svg",
+      "kind": "Скриншоты",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thodshot.svg"
     }
   ]
 }
