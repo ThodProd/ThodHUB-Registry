@@ -167,6 +167,18 @@
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodshot.svg",
       "kind": "Скриншоты",
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thodshot.svg"
+    },
+    {
+      "id": "thodtorrent",
+      "name": "ThodTorrent",
+      "kind": "Торрент-клиент",
+      "description": "Скачивание magnet-ссылок и торрентов. Выбор папки, настраиваемые столбцы и автоматическая остановка без отдачи.",
+      "repository": "ThodProd/ThodTorrent",
+      "category": "Сеть",
+      "icon": "library",
+      "mode": "standalone",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thodtorrent.svg",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodtorrent.svg"
     }
   ]
 }
