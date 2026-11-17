@@ -188,7 +188,7 @@
       "repository": "ThodProd/ThodDriver",
       "category": "Система",
       "icon": "monitor",
-      "mode": "embedded",
+      "mode": "standalone",
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoddriver.svg",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoddriver.svg"
     }
