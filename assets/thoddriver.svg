@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="Обновление драйверов">
+  <rect width="800" height="420" fill="#F2F6FC"/>
+  <circle cx="400" cy="210" r="150" fill="#E2ECFA"/>
+  <path d="M330 114h140v57l40 40v79l-40 40v-24H330v24l-40-40v-79l40-40v-57Z" fill="#3676E8"/>
+  <rect x="359" y="166" width="82" height="100" rx="8" fill="#F2F6FC"/>
+  <path d="M376 192h48m-48 24h48m-48 24h31" stroke="#3676E8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M400 54v60M400 306v60M236 210h94M470 210h94M284 94l42 42M474 284l42 42M516 94l-42 42M326 284l-42 42" stroke="#60728B" stroke-width="14" stroke-linecap="round"/>
+</svg>

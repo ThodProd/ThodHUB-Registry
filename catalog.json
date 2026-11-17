@@ -179,6 +179,18 @@
       "mode": "standalone",
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thodtorrent.svg",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodtorrent.svg"
+    },
+    {
+      "id": "thoddriver",
+      "name": "ThodDriver",
+      "kind": "Обновление драйверов",
+      "description": "Поиск и установка обновлений драйверов из Windows Update. Резервная копия, точка восстановления и установка из папки INF.",
+      "repository": "ThodProd/ThodDriver",
+      "category": "Система",
+      "icon": "monitor",
+      "mode": "embedded",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoddriver.svg",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoddriver.svg"
     }
   ]
 }

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="ThodDriver">
+  <rect width="256" height="256" rx="52" fill="#F2F6FC"/>
+  <path d="M90 49h76v34l22 22v58l-22 22v22h-76v-22l-22-22v-58l22-22V49Z" fill="#3676E8"/>
+  <path d="M110 90h36v76h-36z" fill="#F2F6FC"/><path d="M118 108h20m-20 20h20m-20 20h20" stroke="#3676E8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M128 28v21M128 207v21M28 128h40M188 128h40M55 55l28 28M173 173l28 28M201 55l-28 28M83 173l-28 28" stroke="#4C5B70" stroke-width="12" stroke-linecap="round"/>
+</svg>
