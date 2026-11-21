@@ -165,7 +165,7 @@
       "repository": "ThodProd/ThodDrop",
       "category": "Сеть",
       "icon": "library",
-      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoddrop.svg?v=2",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodDrop/hub-v2.0.1/web/icon-192.png",
       "mode": "embedded",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoddrop.svg"
     },
