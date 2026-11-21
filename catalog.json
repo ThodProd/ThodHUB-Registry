@@ -119,7 +119,7 @@
     },
     {
       "id": "forcedeletehelper",
-      "primaryLanguage": "C#",
+      "primaryLanguage": "Rust",
       "name": "ForceDelete",
       "kind": "Удаление файлов",
       "description": "Безвозвратное удаление файлов и папок с остановкой блокирующих процессов. Затирание данных и пункт в меню Проводника.",
