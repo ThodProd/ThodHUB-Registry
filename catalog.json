@@ -158,10 +158,10 @@
     },
     {
       "id": "thoddrop",
-      "primaryLanguage": "TypeScript",
+      "primaryLanguage": "Rust",
       "name": "ThodDrop",
       "kind": "Передача файлов",
-      "description": "Отправка файлов, фото и буфера обмена между телефоном и ПК по Wi-Fi со сквозным шифрованием. Без аккаунта, платных функций и статистики.",
+      "description": "Передача файлов, фото и текста между телефонами и ПК по локальной сети. Постоянная привязка устройств и фоновый приём в Windows.",
       "repository": "ThodProd/ThodDrop",
       "category": "Сеть",
       "icon": "library",
