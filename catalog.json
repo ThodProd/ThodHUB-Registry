@@ -55,9 +55,9 @@
     },
     {
       "id": "copyall",
-      "primaryLanguage": "C#",
+      "primaryLanguage": "Rust",
       "name": "CopyAll",
-      "description": "Копирование всех путей в папке через контекстное меню. Просмотр структуры и экспорт в текст.",
+      "description": "Копирует полные пути файлов и папок из меню Проводника. Если список не помещается в буфер обмена, открывает TXT.",
       "repository": "ThodProd/CopyAll",
       "category": "Работа",
       "icon": "copy",
