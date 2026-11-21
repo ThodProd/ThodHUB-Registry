@@ -207,6 +207,19 @@
       "mode": "standalone",
       "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thoddriver.svg",
       "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thoddriver.svg"
+    },
+    {
+      "id": "thodtalk",
+      "primaryLanguage": "Rust",
+      "name": "ThodTalk",
+      "kind": "Голосовой чат",
+      "description": "Голосовые и текстовые каналы, демонстрация экрана и общение с друзьями по коду приглашения.",
+      "repository": "ThodProd/ThodTalk",
+      "category": "Общение",
+      "icon": "library",
+      "mode": "standalone",
+      "iconUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/icons/thodtalk.svg",
+      "artworkUrl": "https://raw.githubusercontent.com/ThodProd/ThodHUB-Registry/main/assets/thodtalk.svg"
     }
   ]
 }
