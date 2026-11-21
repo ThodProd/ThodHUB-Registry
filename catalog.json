@@ -80,7 +80,7 @@
     },
     {
       "id": "thodview",
-      "primaryLanguage": "C#",
+      "primaryLanguage": "Rust",
       "name": "ThodView",
       "description": "Просмотр, масштабирование, поворот и обрезка изображений. Навигация по папкам и работа с метаданными.",
       "repository": "ThodProd/ThodView",
